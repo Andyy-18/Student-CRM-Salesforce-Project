@@ -11,4 +11,24 @@ A basic Salesforce CRM for managing student course enrollments.
 - 📊 Reports: Displays students enrolled per course
 - ✨ Clean UI: Organized Lightning App, record pages, and related lists
 
-  
+
+## 🖼️ Flow Screenshots
+
+> All screenshots are stored in the `/STUDENT_CRM/` folder.
+
+### 🔹 Flow Overview
+![Flow Overview](STUDENT_CRM/FLOWS/fULL_flow.png)
+
+### 🔹 Duplicate Check Logic
+![Duplicate Check](STUDENT_CRM/FLOWS/Decision.png)
+
+### 🔹 Enrollment Form Screen
+![Form Screen](STUDENT_CRM/FLOWS/Create_Enrollment _Records.png)
+
+### 🔹 Error Screen for Duplicate
+![Error](STUDENT_CRM/FLOWS/Duplicate_Error_Screen.png)
+
+
+## 📄 Full Documentation
+
+📥 [Download PDF Documentation](Student CRM.pdf)
