@@ -23,12 +23,13 @@ A basic Salesforce CRM for managing student course enrollments.
 ![Duplicate Check](STUDENT_CRM/FLOWS/Decision.png)
 
 ### 🔹 Enrollment Form Screen
-![Form Screen](STUDENT_CRM/FLOWS/Create_Enrollment _Records.png)
+![Form Screen](STUDENT_CRM/FLOWS/Enrollment_Success.png)
 
 ### 🔹 Error Screen for Duplicate
 ![Error](STUDENT_CRM/FLOWS/Duplicate_Error_Screen.png)
 
 
-## 📄 Full Documentation
+## 📄 Full Project Documentation
 
-📥 [Download PDF Documentation](Student CRM.pdf)
+📥 [Download PDF Documentation](Student%20CRM.pdf)
+
